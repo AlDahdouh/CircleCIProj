@@ -47,6 +47,11 @@ Part 3
 Can optimize images sizes and security for production.
 Knows why docker-compose is not an optimal production solution and what is.
 
+Part 4
+
+FOR TESTING >>>>>>>>>>>>>>>>
+
+
 ## Getting started ##
 
 ### Course has multiple pages ###
